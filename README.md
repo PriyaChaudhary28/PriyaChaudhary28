@@ -31,21 +31,13 @@
 
 ### 📊 GitHub Stats (2025)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaChaudhary&show_icons=true&theme=tokyonight" alt="Priya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaChaudhary28&show_icons=true&theme=tokyonight" alt="Priya's GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyaChaudhary&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyaChaudhary28&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary28&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
-
-### 📈 My GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaChaudhary&theme=tokyo-night&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ### 📌 Featured Projects
 Here are some of my favorite or most active repositories:
