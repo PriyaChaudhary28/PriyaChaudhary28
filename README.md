@@ -39,6 +39,7 @@
 </p>
 
 
+
 ### 📌 Featured Projects
 Here are some of my favorite or most active repositories:
 - 🔥 [E-Shopify](https://github.com/PriyaChaudhary/E-Shopify) — Full-stack e-commerce app with MERN
